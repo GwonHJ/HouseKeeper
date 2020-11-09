@@ -14,7 +14,8 @@
 
 
 ## 필요한 센서
-    
+    ![Housekeeper](https://user-images.githubusercontent.com/45057466/98561001-b7213d80-22eb-11eb-9fda-b443c9035d5f.png)
+
    - 온습도 센서
    - 진동센서
    - 먼지센서
